@@ -6,7 +6,7 @@ const data = [
       "徐々に",
       "同様に",
       "この頃",
-      "近頃"
+      "今まさに"
     ],
     "correct": 2,
     "sentence": "Nowadays, I usually spend my time reading and sleeping.",
@@ -321,8 +321,8 @@ const data = [
       "相対的な"
     ],
     "correct": 3,
-    "sentence": "All of my father's relatives came to the party.",
-    "jp": "父の親戚はみんなパーティーに来た。"
+    "sentence": "The crop requires little fertilizer relative to corn.",
+    "jp": "その作物はトウモロコシと比べて相対的にほとんど肥料を必要としません。"
   },
   {
     "id": 826,
@@ -939,7 +939,7 @@ const data = [
     "id": 873,
     "word": "likelihood",
     "choices": [
-      "見込み",
+      "可能性",
       "見知らぬ人",
       "戦略",
       "議会"
@@ -1084,7 +1084,7 @@ const data = [
     "choices": [
       "版",
       "客",
-      "学問分野",
+      "規律",
       "表現"
     ],
     "correct": 2,
